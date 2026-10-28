@@ -1,0 +1,6 @@
+{
+  "name": "Matrix Wars",
+  "description": "Tactical grid battle strategy game powered by matrix algebra, eigenvalues, and computational geometry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
